@@ -1,0 +1,3 @@
+[submodule "pooled-cp-profiling-recipe"]
+	path = pooled-cp-profiling-recipe
+	url = https://github.com/broadinstitute/pooled-cp-profiling-recipe.git
